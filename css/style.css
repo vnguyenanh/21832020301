@@ -97,6 +97,7 @@ footer {
 
 .content {
     padding: 50px 0px;
+    height: 100%;
 }
 
 .tv__slide__block {height: 515px;}
@@ -112,6 +113,8 @@ header {position: relative;}
 body{
     font-family: 'sFMoNoL-Regular', sans-serif !important;
 }
+
+html, body {width: 100%;height: 100%;}
 .header__nav {background-color: #0139A6;position: relative;z-index: 9999;}
 
 .header__nav ul li {width: 100%;text-align: center;padding: 10px 0;}
