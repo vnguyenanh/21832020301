@@ -1,13 +1,13 @@
 @font-face {
-    font-family: Arial;
+    font-family: Helvetica;
     src: url(../fonts/ligaturized/SFMonoLigaturized-Regular.ttf);
 }
 @font-face {
-    font-family: Arial Medium;
+    font-family: Helvetica Medium;
     src: url(../fonts/ligaturized/SFMonoLigaturized-Medium.ttf);
 }
 @font-face {
-    font-family: Arial Bold;
+    font-family: Helvetica Bold;
     src: url(../fonts/ligaturized/SFMonoLigaturized-Bold.ttf);
 }
 
